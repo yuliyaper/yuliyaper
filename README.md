@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuliyaper
 - 👀 I’m interested in QA. Graduated from the course "Basics of software testing" at Innopolis University
-- 🌱 I’m currently learning the course of Vadim Ksenzov
+- 🌱 I’m currently learning the course of Vadim Ksendzov
 - 📫 How to reach me  Telegram @YPerev 
 
 <!---
