@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @yuliyaper
-- 👀 I’m interested in QA. Graduated from the course "Basics of software testing" at Innopolis University
-- 🌱 I’m currently learning the course of Vadim Ksendzov
-- 📫 How to reach me  Telegram @YPerev 
+** Hi, I’m @yuliyaper. Welcome To My GitHub Profile ! **
+-------------------------------------
+![image](https://user-images.githubusercontent.com/95249472/159184680-3c12ae13-3fcd-4245-b60a-376e3a575051.png)
 
-<!---
-yuliyaper/yuliyaper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+**I'm a beginner QA engineer**
+- -------------
+* 👋 I am learning software testing.
+* 👀 Graduated from the course "Basics of software testing" at Innopolis University
+* 🌱 I’m currently learning the course of Vadim Ksendzov
+* 📫  I am constantly learning new things
+
