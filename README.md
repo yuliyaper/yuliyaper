@@ -29,3 +29,5 @@
 ![image](https://user-images.githubusercontent.com/95249472/159185428-8ee52424-6e03-49ab-8c64-d20b99d763f0.png)
 
  https://t.me/YPerev
+
+[![Гитхаб Анурага stats](https://github-readme-stats.vercel.app/apiyuliyaper=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
